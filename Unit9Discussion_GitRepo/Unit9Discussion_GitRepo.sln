@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit9Discussion_GitRepo", "Unit9Discussion_GitRepo\Unit9Discussion_GitRepo.csproj", "{BB7EA258-42A0-45F7-B03D-9BEB4C7FB7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7EA258-42A0-45F7-B03D-9BEB4C7FB7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7EA258-42A0-45F7-B03D-9BEB4C7FB7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7EA258-42A0-45F7-B03D-9BEB4C7FB7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7EA258-42A0-45F7-B03D-9BEB4C7FB7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042F5A6A-9F1B-4C6A-B33E-B52839CC1F6B}
+	EndGlobalSection
+EndGlobal
